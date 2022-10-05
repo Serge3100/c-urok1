@@ -1,0 +1,15 @@
+D:\мое\обучение\git2\c#\c#urok4\bin\Debug\net6.0\c#urok4.exe
+D:\мое\обучение\git2\c#\c#urok4\bin\Debug\net6.0\c#urok4.deps.json
+D:\мое\обучение\git2\c#\c#urok4\bin\Debug\net6.0\c#urok4.runtimeconfig.json
+D:\мое\обучение\git2\c#\c#urok4\bin\Debug\net6.0\c#urok4.dll
+D:\мое\обучение\git2\c#\c#urok4\bin\Debug\net6.0\c#urok4.pdb
+D:\мое\обучение\git2\c#\c#urok4\obj\Debug\net6.0\c#urok4.csproj.AssemblyReference.cache
+D:\мое\обучение\git2\c#\c#urok4\obj\Debug\net6.0\c#urok4.GeneratedMSBuildEditorConfig.editorconfig
+D:\мое\обучение\git2\c#\c#urok4\obj\Debug\net6.0\c#urok4.AssemblyInfoInputs.cache
+D:\мое\обучение\git2\c#\c#urok4\obj\Debug\net6.0\c#urok4.AssemblyInfo.cs
+D:\мое\обучение\git2\c#\c#urok4\obj\Debug\net6.0\c#urok4.csproj.CoreCompileInputs.cache
+D:\мое\обучение\git2\c#\c#urok4\obj\Debug\net6.0\c#urok4.dll
+D:\мое\обучение\git2\c#\c#urok4\obj\Debug\net6.0\refint\c#urok4.dll
+D:\мое\обучение\git2\c#\c#urok4\obj\Debug\net6.0\c#urok4.pdb
+D:\мое\обучение\git2\c#\c#urok4\obj\Debug\net6.0\c#urok4.genruntimeconfig.cache
+D:\мое\обучение\git2\c#\c#urok4\obj\Debug\net6.0\ref\c#urok4.dll
